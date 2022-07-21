@@ -1,0 +1,9 @@
+.nav_bar_under{
+    background-color: #ebaf61;
+}
+.hover__nav_under:hover{
+    border-right: 1px dotted black;
+    border-left:1px dotted black;
+    cursor: pointer;
+
+}
